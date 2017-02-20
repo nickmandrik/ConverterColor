@@ -1,0 +1,15 @@
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\bin\Debug\KG_Lab1.exe.config
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\bin\Debug\KG_Lab1.exe
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\bin\Debug\KG_Lab1.pdb
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\obj\Debug\KG_Lab1.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\obj\Debug\KG_Lab1.Properties.Resources.resources
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\obj\Debug\KG_Lab1.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\obj\Debug\KG_Lab1.exe
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\obj\Debug\KG_Lab1.pdb
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\bin\Debug\en\KG_Lab1.resources.dll
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\obj\Debug\en\KG_Lab1.resources.dll
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\obj\Debug\KG_Lab1.ChooserColor.resources
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\obj\Debug\KG_Lab1.ChooserColor.en.resources
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\bin\Debug\af\KG_Lab1.resources.dll
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\obj\Debug\KG_Lab1.ChooserColor.af.resources
+c:\users\home\documents\visual studio 2013\Projects\KG_Lab1\KG_Lab1\obj\Debug\af\KG_Lab1.resources.dll
